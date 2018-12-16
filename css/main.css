@@ -1,5 +1,5 @@
 /*!
- 
+
  */
 
 body {
@@ -12,15 +12,15 @@ p {
 }
 
 a {
-  color: #fed136;
+  color: #bb4055;
 }
 
 a:hover {
-  color: #fec503;
+  color: #bb4055;
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: #bb4055 !important;
 }
 
 h1,
