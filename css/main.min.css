@@ -10,15 +10,17 @@ p {
     line-height: 1.75
 }
 
-a {}
+a {
+    text-decoration: none;
+}
 
 a:hover {
     color: #bb4055
 }
 
-.text-primary {
+/* .text-primary {
     color:  !important
-}
+} */
 
 h1,
 h2,
