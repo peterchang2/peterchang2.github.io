@@ -317,6 +317,8 @@ header.masthead .intro-text .intro-heading {
 .portfolio-modal .modal-content {
   padding: 100px 0;
   text-align: center;
+  width: 80%;
+  height: 80%;
 }
 
 .portfolio-modal .modal-content h2 {
